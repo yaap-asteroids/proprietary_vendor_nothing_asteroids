@@ -8,7 +8,7 @@
 "feature.camera.night.sn.zoom.range":"[0.6,4.0)",
 "feature.camera.night.sr.zoom.range":"[4.0,100.0]",
 "feature.camera.day.sr.zoom.range":"[8.0,30.0]",
-"feature.camera.day.hdr.zoom.range":"[0.6,8.0)",
+"feature.camera.day.hdr.zoom.range":"",
 "feature.camera.isz.zoom.range":"[4,8);[280,330]:[16,60];[280,330]",
 "feature.camera.isz.zoom.ratio":2,
 "feature.isz.change.interval.num":8,
